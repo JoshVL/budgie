@@ -2,6 +2,11 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app). Josh will probably add more info here later if this project is actually continued.
 
+## Setup
+Add a .env file to your setup with the following secrets:
+`REACT_APP_GOOGLE_CLIENT_ID`
+
+
 ## Available Scripts
 
 In the project directory, you can run:
